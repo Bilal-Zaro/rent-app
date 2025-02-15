@@ -21,6 +21,7 @@ Additionally, the website includes an **Admin Dashboard** for property managemen
 
 ### Developers:
 
+- **Bilal Zaro**
 - **Heba Maaitah**
 - **Ghofran Hijazi**
 - **Hala Abu Shehab**
